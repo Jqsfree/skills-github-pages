@@ -4,7 +4,7 @@
   Define terms and link to docs.github.com.
   Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
 -->
-
+theme: minima
 ## Step 2: Configure your site
 
 _You turned on GitHub Pages! :tada:_
