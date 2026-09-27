@@ -1,0 +1,51 @@
+{
+  "target": "skills-github-pages",
+  "default_branch": "main",
+  "visibility": "public",
+  "base": "b3a310e688de1ae6c749bf003dad5d3a24a84b14",
+  "branch": "consolidate/final-organization",
+  "sources": [
+    {
+      "name": "laughing-octo-eureka",
+      "branch": "main",
+      "prefix": "examples/codespaces-haikus",
+      "id": 833703786,
+      "commit": "e6c584a5bfb9163f02bef8879135c3c267f21bae",
+      "tree": "fc1aa7a4fc4ba3e800d7f74102bc1b17d828393e",
+      "files": 16,
+      "refs": [
+        {
+          "source_ref": "refs/heads/main",
+          "target_ref": "refs/tags/imported/laughing-octo-eureka/heads/main",
+          "sha": "e6c584a5bfb9163f02bef8879135c3c267f21bae"
+        }
+      ]
+    },
+    {
+      "name": "hekko-world",
+      "branch": "main",
+      "prefix": "examples/hello-world",
+      "id": 920172650,
+      "commit": "f1480fd434030af9b5f2878dc6723d620a2b4b51",
+      "tree": "2986c81165138278b41a292fc8aa00c53e363dcd",
+      "files": 3,
+      "refs": [
+        {
+          "source_ref": "refs/heads/main",
+          "target_ref": "refs/tags/imported/hekko-world/heads/main",
+          "sha": "f1480fd434030af9b5f2878dc6723d620a2b4b51"
+        },
+        {
+          "source_ref": "refs/pull/1/head",
+          "target_ref": "refs/tags/imported/hekko-world/pull/1/head",
+          "sha": "c8e0455ba9311d49ad6396f4fe9e39ca1584dbd3"
+        },
+        {
+          "source_ref": "refs/pull/2/head",
+          "target_ref": "refs/tags/imported/hekko-world/pull/2/head",
+          "sha": "af0f3ca06d1fe4b2135c6943c30b46cccc0e23de"
+        }
+      ]
+    }
+  ]
+}
