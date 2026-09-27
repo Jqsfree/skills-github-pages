@@ -1,0 +1,4 @@
+# 示例代码作为仓库资料，不进入 Jekyll 站点构建。
+exclude:
+  - examples
+  - .repository-history
